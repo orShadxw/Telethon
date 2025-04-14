@@ -13,14 +13,14 @@ a {
 pre {
     font-family: 'Source Code Pro', monospace;
     padding: 8px;
-    color: #567;
+    color: #829;
     background: #080a0c;
     border-radius: 0;
     overflow-x: auto;
 }
 
 a:hover {
-    color: #64bbdd;
+    color: #8864dd;
     text-decoration: underline;
 }
 
@@ -86,7 +86,7 @@ pre::-webkit-scrollbar-thumb:horizontal {
 
 :target {
     border: 2px solid #149;
-    background: #246;
+    background: #846;
     padding: 4px;
 }
 
@@ -122,12 +122,12 @@ button {
     padding: 8px;
     color: #bbb;
     background-color: #111;
-    border: 2px solid #146;
+    border: 2px solid #846;
     transition-duration: 300ms;
 }
 
 button:hover {
-    background-color: #146;
+    background-color: #846;
     color: #fff;
 }
 
