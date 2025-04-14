@@ -85,7 +85,7 @@ pre::-webkit-scrollbar-thumb:horizontal {
 }
 
 :target {
-    border: 2px solid #149;
+    border: 2px solid #809;
     background: #846;
     padding: 4px;
 }
